@@ -5,6 +5,8 @@
       "bundler": "metro"
     },
     "name": "jobs",
-    "slug": "jobs"
-  }
+    "slug": "jobs",
+    "sdkVersion": "48.0.0"
+  },
+  "name": "jobs"
 }
